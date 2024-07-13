@@ -1,0 +1,11 @@
+{
+    "name": "clear_backend",
+    "version": "0.0.0",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "azle": "^0.22.0",
+        "mongodb": "^6.8.0",
+        "mongoose": "^8.5.0"
+    }
+}
